@@ -6,6 +6,6 @@ User inputs a single word after selecting "Listen". This word is broken down int
 This version of the project is a proof of concept; it is not ready for full release.
 
 **To Fix**<br>
---> Diversifiy and include more unique sentence structures
+--> Diversifiy and include more unique sentence structures<br>
 --> Use more reliable resource to classify POS of each word (dictionary.com possibly)
 
