@@ -1,11 +1,6 @@
 # Wordplay
-Exhibition in which the user builds free verse with the computer. 
-
-User inputs a single word after selecting "Listen". This word is broken down into all other words which can be formed from it's letters (anagramica API). These words are then classified based on their part of speech (dictionary.yandex.net). Classified words are added to specific arrays. From these arrays, random words are inputted into defined sentence structures which are then printed to the screen (p5.js).
-
-This version of the project is a proof of concept; it is not ready for full release.
-
-**To Fix**<br>
---> Diversifiy and include more unique sentence structures<br>
---> Use more reliable resource to classify POS of each word (dictionary.com possibly)
+Collaborative experience between machine and man in which the user speaks a word into their computer. The letters of this word are then used to form every other word possible. These words are then classified and used to form random sentences (once enough words are generated), creating obscure juxtapositions of words and phrases. By collaborating with the computer, the user is forced to view the machine as a partner rather than a tool.
+    
+**ex**
+click "listen" -> computer waits for spoken word -> word "god" inputted -> "dog", "go", "do"  generated -> "dog" (noun), "go" (verb), "do" (verb) -> specific sentence structure selected through randomly generated number, "go god go" generated;
 
